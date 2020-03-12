@@ -1,0 +1,163 @@
+/* DO NOT EDIT: After-play notifications */
+#toast-notifications .left .icon.icon-vote-woot-selected{
+  background-image: url(https://themescript.github.io/images/cmix_icons.png) !important;
+  background-size: 270px 480px !Important;
+  background-position: -240px -210px !Important;
+}
+
+.badge-box {
+    background: transparent;
+}
+
+/* Badge separator */
+/* > Do not edit past this line unless necessary */
+/*#chat-messages .message:before,
+#chat-messages .emote:before{
+  content: '' !important;
+  position: absolute !important;
+  background-color: rgba(207, 207, 207, 0.34) !Important;
+  width: 1px !important;
+  height: 30px !Important;
+  top: 8px !Important;
+  left: 42px !important;
+}
+
+/* Custom Badges
+   > To add custom badges, copy the following template,
+     fill out what is required and add it to the bottom
+     of the file. Please don't change users badges without
+     their permission and refrain from adding badges that
+     may appear inappropriate.
+
+   > TEMPLATE: */
+   
+/* USERNAME */
+#extplut-user-profiles.id-0 .bdg,
+#chat-messages [data-cid^="0"] .bdg,
+#user-rollover.id-0 .bdg{
+  background-image: url(pfx.domain.sfx/img.sfx) !important;}
+  
+/* User ID can be obtained in one of four ways;
+   > Without addons: Inspect a user's message
+   ? Without addons: Inspect a waitlist entry
+   > plugCubed: "/whois $user"
+   > RCS: In a user's roll-over panel */
+
+/* Border radius
+   > Some users may need this adjusted to fit all of their
+     badge in, or as part of their design. Keep things tidy
+     and set those preferences under here */
+
+#extplug-user-profiles.id-4404282 .bdg,
+#chat-messages [data-cid^="4404282"] .badge-box,
+#user-rollover.id-4404282 .bdg
+#extplug-user-profiles.id-3775042 .bdg,
+#chat-messages [data-cid^="3775042"] .badge-box,
+#user-rollover.id-3775042 .bdg{
+  border-radius: 0px !Important;
+}
+
+/* No badge */
+.badge-box.no-badge{
+  background-position: -120px -90px !Important;}
+
+/* %%%%%%%%HQ BOT%%%%%%% */
+#room-bar .icon-room:before,
+#extplug-user-profiles.id-29698377 .bdg,
+#chat-messages [data-cid^="29698377"] .bdg,
+#user-rollover.id-29698377 .bdg{
+  background-position: -30px -90px !Important;}
+
+/* %%%%%%%%%%Host: Delights%%%%%%%%%% */
+#room-bar .icon-room:after,
+#extplug-user-profiles.id-10762013 .bdg,
+#chat-messages [data-cid^="10762013"] .bdg,
+#user-rollover.id-10762013 .bdg{
+  background-image: url(http://i.imgur.com/Q7K1HZX.png) !important;}
+
+/* Chilly Cookoff icons */
+  /* Kush */
+#extplug-user-profiles.id-4136915 .bdg,
+#chat-messages [data-cid^='4136915'] .bdg,
+#user-rollover.id-4136915 .bdg
+  /* Vector */
+#chat-messages [data-cid^='3852859'] .icon-chat-subscriber,
+#chat-messages .id-3852859 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3852859 .icon-chat-subscriber,
+#chat-messages [data-cid^='4189647'] .icon-chat-subscriber,
+#chat-messages .id-4189647 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-4189647 .icon-chat-subscriber,
+#chat-messages [data-cid^='3643570'] .icon-chat-subscriber,
+#chat-messages .id-3643570 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3643570 .icon-chat-subscriber,
+#chat-messages [data-cid^='3710134'] .icon-chat-subscriber,
+#chat-messages .id-3710134 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3710134 .icon-chat-subscriber,
+#chat-messages [data-cid^='4500966'] .icon-chat-subscriber,
+#chat-messages .id-4500966 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-4500966 .icon-chat-subscriber,
+#chat-messages [data-cid^='3425119'] .icon-chat-subscriber,
+#chat-messages .id-3425119 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3425119 .icon-chat-subscriber,
+#chat-messages [data-cid^='3621237'] .icon-chat-subscriber,
+#chat-messages .id-3621237 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3621237 .icon-chat-subscriber,
+#chat-messages [data-cid^='3869450'] .icon-chat-subscriber,
+#chat-messages .id-3869450 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3869450 .icon-chat-subscriber,
+#chat-messages [data-cid^='5479999'] .icon-chat-subscriber,
+#chat-messages .id-5479999 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-5479999 .icon-chat-subscriber,
+#chat-messages [data-cid^='3709816'] .icon-chat-subscriber,
+#chat-messages .id-3709816 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3709816 .icon-chat-subscriber,
+#chat-messages [data-cid^='4152442'] .icon-chat-subscriber,
+#chat-messages .id-4152442 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-4152442 .icon-chat-subscriber{
+  background-image: url(http://i.imgur.com/jziQ64f.png) !important;
+  background-size: 90px 75px !Important;
+}
+
+  /* Badges */
+    /* fluffynips */
+#extplug-user-profiles.id-4136915 .bdg,
+#chat-#chat-messages [data-cid^='4136915'] .bdg,
+#user-rollover.id-4136915 .bdg{
+  background-position: -30px 0px !Important;}
+  /* Sub icons */
+    /* Vector */
+#chat-messages [data-cid^='3852859'] .icon-chat-subscriber,
+#chat-messages .id-3852859 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3852859 .icon-chat-subscriber,
+#chat-messages [data-cid^='4189647'] .icon-chat-subscriber,
+#chat-messages .id-4189647 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-4189647 .icon-chat-subscriber,
+#chat-messages [data-cid^='3643570'] .icon-chat-subscriber,
+#chat-messages .id-3643570 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3643570 .icon-chat-subscriber,
+#chat-messages [data-cid^='3710134'] .icon-chat-subscriber,
+#chat-messages .id-3710134 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3710134 .icon-chat-subscriber,
+#chat-messages [data-cid^='4500966'] .icon-chat-subscriber,
+#chat-messages .id-4500966 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-4500966 .icon-chat-subscriber,
+#chat-messages [data-cid^='3425119'] .icon-chat-subscriber,
+#chat-messages .id-3425119 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3425119 .icon-chat-subscriber,
+#chat-messages [data-cid^='3621237'] .icon-chat-subscriber,
+#chat-messages .id-3621237 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3621237 .icon-chat-subscriber,
+#chat-messages [data-cid^='3869450'] .icon-chat-subscriber,
+#chat-messages .id-3869450 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3869450 .icon-chat-subscriber,
+#chat-messages [data-cid^='5479999'] .icon-chat-subscriber,
+#chat-messages .id-5479999 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-5479999 .icon-chat-subscriber,
+#chat-messages [data-cid^='3709816'] .icon-chat-subscriber,
+#chat-messages .id-3709816 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-3709816 .icon-chat-subscriber,
+#chat-messages [data-cid^='4152442'] .icon-chat-subscriber,
+#chat-messages .id-4152442 .icon-chat-subscriber,
+#vote .extplug-vote-list .id-4152442 .icon-chat-subscriber{
+  background-position: -75px -30px !Important;
+}
